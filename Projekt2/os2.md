@@ -1,1 +1,1 @@
-## i use nix btw
+# i use nix btw
